@@ -1,0 +1,13 @@
+**Log on to https://codingdiksha.com/ for more projects!**
+
+**Database Name: smsigniter**
+
+**Developed by https://codingdiksha.com/**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
